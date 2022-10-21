@@ -1,0 +1,1126 @@
+[
+  {
+    "Name": "Call of Duty®: Modern Warfare®",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.50528.67185831113154542.823e899c-d262-40a0-91f6-eee04bdc3713.dd7010c6-9641-4c5a-b8b5-7eb16ddc67ea?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/call-of-duty-modern-warfare/c5dtj99626k3",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "HyperDot",
+    "Description": "To activate keyboard or mouse support, you first need to enter the desired game mode and when prompted to choose the input device, choose accordingly",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.52659.14457219920156328.7d3b0a9f-c604-494c-88b1-9e91b9d1014c.4bd45b1d-f40c-4482-bac2-097f99ae1022?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/hyperdot/9nvvj8tbd7kp",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Fortnite",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.12862.70702278257994163.77e66bd3-4e13-4401-b4c0-8c5c5e906824.d6a6c2d5-e616-40ff-9c99-1845b497b1f6?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/fortnite/bt5p2x999vh2",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Surviving Mars",
+    "Description": "To activate keyboard and mouse support, you'll need to go to Settings and then choose 'Hybrid Controls'",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.29809.13897576008709751.2a03398b-a338-415b-b860-375a94472e34.70982d73-0f9f-4ad8-a928-23f7491dc7f6?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/surviving-mars/bxc7cs90nx6s",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "The Sims™ 4",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely (even in-game cheats work)",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.53697.64737940845214615.82a9a5cd-32c5-4fb1-a951-2a7b976ad460.f0e0779f-450f-421f-b0c6-7b04bf25fa60?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/the-sims-4/c08jxnk0vg5l",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Metro Exodus",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.17469.65642028844779555.c518e652-fc85-4d6e-99a2-3e9ae1656a91.6cace333-df13-4178-a46d-5938de4654a2?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/metro-exodus/C1TBTQBVJMFL",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "DayZ",
+    "Description": "To make use of KBM, you'll need to allow its use in options menu, then join a server where the use of this input method is active",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.29273.69886306496288395.9772e69a-b6b4-4e4e-b921-787e4783bd7d.596454ff-8c18-42f6-93ba-3c0dd66b5c6f?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/dayz/bsr9nlhvf1kl",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Warframe",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.9916.68123456111492710.5ea106dd-9be6-4375-85f4-97829ff94311.18805170-262a-464e-9520-4cd0978ddec4?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/warframe/bps3xf74b9v1",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Sea of Thieves",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.16347.14554784103656548.6c0bfca6-ceff-4368-9bde-2fe50f344136.007dce43-6492-46f2-bb2b-2b28df98fc3c?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/sea-of-thieves/9p2n57mc619k",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Deep Rock Galactic",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.36513.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.55a54e68-1cc5-42b3-8925-75aed52f7e40?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/deep-rock-galactic/9nhfvwx1v7qj",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Minecraft",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.17382.13510798887677013.afcc99fc-bdcc-4b9c-8261-4b2cd93b8845.49beb011-7271-4f15-a78b-422c511871e4?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/minecraft/9nblggh537bl",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Sniper Elite V2 Remastered",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.59916.14548885114619059.8dafea0c-fded-477e-aa41-fc0c445146da.63e2e265-5720-4c5c-87cd-dda0f58ffae6?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/sniper-elite-v2-remastered/9p2z085bxsxd",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Phantasy Star Online 2",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.60072.14501600885888434.e91249ca-acb8-4ea5-853c-ac9eac8b6e79.c0008cb0-5686-4832-8e55-b6f33bd60c75?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/phantasy-star-online-2",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Gears 5",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.10933.65494054591008504.4eae27ba-1cfe-4af2-950a-4af81f8cd22a.b5b2909d-8884-48d0-b25a-68d6518c9b73?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/gears-5/c2kdnlt2h7dm",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Paladins",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.2604.67319741566234733.e5880c78-f554-42e5-90e1-e12c308f898f.d7d249aa-11a8-49bc-bf22-51e854dce912?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/paladins/c4pz0v39gxn2",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "DOOM 64",
+    "Description": "Once you get to the start screen in-game using your controller, you may use your keyboard and mouse freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.37742.13886780434132750.58497d0f-3220-4d2f-a7ff-96dcff27bc5f.e10ab652-fd3c-4438-94fc-0d7f958d5609?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/doom-64/9mxnd4pqlk3w",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Wargroove",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.20729.14378604131770680.b6b5a8ca-e766-4938-b45e-8543e36147b7.1beeb9a9-3466-4f87-a534-5ad19e30744e?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/wargroove/9nrpttj94pck",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Strange Brigade",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.11191.68007808768796752.35c32f5c-cb74-480e-8b80-88c753b6351f.2dd7c46e-014a-46e4-b0ee-f73d9e6a7de2?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/strange-brigade/bnk358cgcz9f",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Warhammer: Vermintide 2",
+    "Description": "Plug and play, but your controller must remain on at all times",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.41784.63950392980135892.2a65d13a-abfb-4b37-bbe3-ccc769a3b70f.36a8a33a-a555-4ed6-90f1-04e1271d59cc?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/warhammer-vermintide-2/bxzwt67jbzjh",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "X-Morph: Defense",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.31509.63560590668055364.d2922ba8-ef5a-4abd-b862-73f455e322a2.4e8e9e2b-2940-4e16-bacb-0f69c90fd670?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/x-morph-defense/bxb5dm2cf32m",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "They Are Billions",
+    "Description": "Limited support. On menus, only mouse work, but kbm works well during gameplay",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.3389.14304212092182729.83455490-2fb7-4f38-af16-5c6b879ef7dc.d65f85fc-a150-4661-85e3-415788e58e7d?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/they-are-billions/9plxv2vjr0ql",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "ARK: Survival Evolved",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.59714.67854144654891351.62e8ac86-d08d-4b3e-a943-500d5e0b2692.84297a79-9d0e-4de5-85b0-e08169607845?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/ark-survival-evolved/bnblc4zgfnkb",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Zombie Army 4: Dead War",
+    "Description": "Plug and play. It is also possible to define your keybindings within the game settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.57045.14307155302772688.6d2bb19d-e8cc-4826-bd21-920020654895.8c854128-fe7f-43cb-aa88-cfc11f91f65d?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/zombie-army-4-dead-war/9plschrn5715",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "ATLAS (Game Preview)",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.40262.14571142807322667.6c4f91a6-9064-4e0e-8cf6-1b7b9fbac1c6.6be83d1f-9b80-4c59-bb79-3cfcd79b9c29?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/atlas-game-preview/9p5db49c03w6",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Smite",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings. Beware: You can only use keyboard and mouse when inside a match",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.16776.65518272230759039.f5dd074e-ff07-478a-b327-d6ab6d56ca6b.f1341c72-b3ce-44ed-9d5f-980cccd526fa?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/smite/c2mhs238pdns",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "War Thunder",
+    "Description": "Button mapping is completely configurable to one's desire",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.603.63381296256995371.f7030be0-325e-4b9d-9f43-5acfb9ee0d7e.be51dfbd-52dd-481d-82e9-d87714a38b38?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/war-thunder/bx1dtcbd1hxj",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Tokyo Warfare Turbo",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.55555.14392301751964064.4447c6d9-d48a-44ae-bd8b-190c44a7b637.64bb8301-9bea-4408-895a-92873d4f0b6c?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/tokyo-warfare-turbo/9nvlqst85dsh",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Bomber Crew",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.42480.14306507722043572.a11780f1-da87-4119-8648-0b14fab2ea54.23b65efe-cd5f-4afd-824a-dc593c7c5a71?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/bomber-crew/c348248bjzcq",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Moonlighter",
+    "Description": "You can only use keyboard to play this game (mouse is not supported)",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.57651.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.62d87c1d-ae29-49cf-bc3b-33b7e27bba42?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/moonlighter/9p8xjrlclh2p",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Roblox",
+    "Description": "Keyboard and mouse can be used once inside play mode (you cannot interact with initial game menus using KBM)",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.23943.13510798883386282.e6f02eb7-a760-453e-8d79-46d4ec74807e.84e78792-8a8f-4ae3-a7a0-709c45161cf1?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/roblox/9nblgggzm6wm",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Space Engineers",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.2125.13700230312728802.7afc83a6-4afb-4b07-84b4-f40e24213a93.e3658258-be2f-4317-81c1-7f3e8dd2eaa6?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/space-engineers/9nlv3x229lg1",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "House Flipper",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.21828.13518543789452586.d00503fa-1953-4be5-a205-5e65a56ab2f0.581e224d-6db0-42e1-a0de-85735425faec?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/house-flipper/9nbfgkqlmv33",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Cities: Skylines",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.7220.66617542682682743.811213f2-2c45-4145-973d-fe3e3774b196.96b48a30-7ed1-4bc9-8f8b-b114375b2e1c?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/cities-skylines-xbox-one-edition/c4gh8n6zxg5l",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Call of Duty®: Warzone",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.46452.13835473807186336.9510cd97-f71a-49b0-9e5c-0877f4bc9de3.611f3905-926e-456a-b549-6b68564b2769?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/call-of-duty-warzone/9mwwnmh6z0jh",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Horror of the Deep",
+    "Description": "",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13050.14227762463342923.efe45e40-3a1e-4579-b0e7-cade7ae94818.76fff391-8595-46e5-b51f-dc21d65b72fe?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/horror-of-the-deep/9phnrc0ck1gx",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "World of Tanks",
+    "Description": "Has keyboard and mouse support, but offers no configuration for it",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.17135.67082279703731056.59e13278-e3a7-4c13-b0e6-d4b223df8450.1d7f0f6f-8a54-4d66-97bf-b0e381512845?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/world-of-tanks-valor/c57l9gr0hhb7",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Rogue Company",
+    "Description": "After skipping the first screen in-game using a controller, you may use your keyboard and mouse. However, the cursor is invisible on game menus and button mapping keeps showing Xbox buttons",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13093.14399248417342273.068dbd18-1a0c-4ae7-9053-fdb0810dda12.4e3dcc53-19ec-468a-97b6-a5ed244b8453?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/rogue-company-standard-founders-pack/9nv7qkf1sp38",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Grounded (Game Preview)",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.30438.14280109286674604.07457100-a11d-4e1d-8c2b-59dd36bb9443.50475687-e425-4eb7-9d4b-ed92ce8e1079?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/grounded-game-preview/9pjthrnvh62h",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Slime Rancher",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse. Beware: it is not yet possible to configure button mapping for keyboard and mouse, so you'll have to play with their settings on default. Mouse has Y-axis inverted and confirm button is Space, for example",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.43883.65571960709588388.6e3322f5-d49a-48f6-ac1e-c5450bd5b3e2.81633a6f-d4ac-4e01-9f1b-ed97cfab5d07?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/slime-rancher/c2nc88m7nwz1",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Destroy All Humans!",
+    "Description": "Has keyboard and mouse support (once past the first screen in-game), but offers no configuration for it",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.6216.65473857825187654.ebbe44de-afda-462d-a514-ec44f41ee0aa.7e84c8b2-b892-4b9e-a1f6-a4eeb99a11ab?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/destroy-all-humans/c2gmbpmthddk",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Surviving the Aftermath (Game Preview)",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.58007.14598738358872938.4865703a-ebf0-4ce2-89c1-6d374cf239fc.5b74b8b4-adb4-4eaf-beb2-d37a376792e0?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/surviving-the-aftermath-founders-edition-game-preview/9p40cj0qjrhh",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Hypnospace Outlaw",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.30063.14305718799508027.42641e91-23d0-46ea-ba6f-12aa317fe516.a189d063-dacb-440b-b6a7-3ecae63b3ab4?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/hypnospace-outlaw/9pm3nvb3pxg0",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Call of Duty®: Black Ops Cold War",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.25992.14107985044965209.e8fed65f-093d-40d1-849f-6c564d2ad876.89955624-8043-4f20-8620-4381e11a3546?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/call-of-duty-black-ops-cold-war/9p7pfh4rmfzd",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Spellbreak (Game Preview)",
+    "Description": "Plug and play, but for now it only supports keyboard. As button mapping is completely customizable, you can configure the look controls to its respective arrows on the keyboard. It is expected that they add mouse support soon (the game is still in preview phase)",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.64903.14012337046625443.46343841-8f66-4d79-a004-80f42bf78e82.67bf9390-1cb1-4331-8afb-477545aec996?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/spellbreak-game-preview/9n6l1hxn7044",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Untitled Goose Game",
+    "Description": "Has keyboard support only, but offers no configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.25596.13856628096419252.2543d50f-bd53-4ec1-90dd-d76914de6757.df5a7952-3ea7-44b8-a791-0c3884d9b256?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/untitled-goose-game/9mvtctdthh23",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Gears Tactics",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.42707.14197394300445757.0822f2ad-efbb-4ffc-a7f0-b5c2fabd7292.62bad0d9-bf55-4533-88ad-773e3a8d2d24?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/gears-tactics-xbox/9pfn8j3v7g54",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Planet Coaster: Console Edition",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.49051.13639867550980984.425f3079-8475-4a0b-b4c9-6cc9048ee988.8094870c-e7b7-4b11-a0a4-a10535c1c00e?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/planet-coaster-console-edition/9ngrx7l5nb6m",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Assassin's Creed Valhalla",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.1547.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.75930d81-6e85-436d-9b61-1279b8dd9b31?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/assassins-creed-valhalla/9n91xstfchrq",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Five Nights at Freddy's",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.14120.13976193533566168.c56d73e5-020f-4be5-860c-ae506c27e2ca.c96def99-b8ab-457a-bcb1-20784fa313be?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/five-nights-at-freddys/9n5253j559lr",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Five Nights at Freddy's 2",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.18293.13578174030071833.ced2a7cf-09b3-4d12-8621-229829d1aa41.eb904133-f4a5-44f7-8298-20d85e074878?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/five-nights-at-freddys-2/9nbr2zsd99fx",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Five Nights at Freddy's 3",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.9314.14616361015974249.17f2bef7-0d22-48bd-83ff-7079f5817a9e.0d900252-73bc-45f1-a86d-2a4d30334cc6?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/five-nights-at-freddys-3/9p6n7lq4hzfd",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Five Nights at Freddy's 4",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.10349.14319236246610425.66fb0c70-79cc-471f-8a96-e56f4d317469.431d8327-3078-4585-8e25-f5009c9c4b84?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/five-nights-at-freddys-4/9pldlmplr7jv",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Monster Sanctuary",
+    "Description": "Has keyboard support only, but offers no configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.22174.13871023289633408.9023710d-5f63-4b3d-9009-f6d13376289a.01a9cdaf-3cc6-4014-8a21-3fe5d2a69f98?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/monster-sanctuary/9mzns9nz97pf",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Yes, Your Grace",
+    "Description": "Has keyboard support only, but offers no configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.55425.14434818467872696.ebbabf35-221f-46cb-8dca-5d30f05a2b0f.91b4d2b2-f071-455d-8b20-4cf30305304f?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/yes-your-grace/9nx14q0qzd1t",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Neoverse",
+    "Description": "Has limited keyboard and mouse support, not offering configuration for keybinding. Beware: mouse cursor is not visible, but functional",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.29424.13732308681387652.912ddfff-827b-4ec6-879c-11fe5776733d.6487f903-ca26-4d1f-93c3-014f5d5fde9b?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/Neoverse/9NNSTP6KJTZ9",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Maid of Sker",
+    "Description": "Has limited keyboard and mouse support, not offering configuration for keybinding. You'll need the controller to get past the start screen. Tip: changing controller sensivity also changes mouse behavior",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.1043.14330775456351923.9c8988c2-5980-49fb-b1ed-e6c668d383e3.45378be9-6a7d-4fa1-8902-96f3deae137f?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/maid-of-sker/9pp5hxgh2b0d",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Call of the Sea",
+    "Description": "Once you get to the playable part (after the menus), you may use your keyboard and mouse freely. Beware: you'll still need the controller to get past some puzzles",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.46463.14562710987664012.7bc0702e-3748-40e0-8a1a-40b5348aa74d.28279165-f4b6-44e8-9eb7-406129c2db6d?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/call-of-the-sea/9p27zmz7fdpz",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Unto The End",
+    "Description": "Plug and play, except in your first time playing (you'll need a controller to start a new game)",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.25899.13858717830022797.2903726e-a0c0-44eb-a6d9-6cef3f1b3e8e.a7afa1c9-fb33-4010-b274-41acf83c5649?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/unto-the-end/9mvj0w5n2l2q",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Shotgun Farmers",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.39838.13828557651322643.6331d71b-518b-4c5a-b080-9cb2945c8878.8159b415-8b88-4e2a-a4c6-9eee2aedc6b2?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/shotgun-farmers/9mx1zz46w88x",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Bright Memory",
+    "Description": "Plug and play, although it does not offer configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.25905.14011532625829842.8b68c2ee-279b-4725-9152-fae086765f98.2bb1c47e-1847-4b78-90b4-4df83383a577?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/bright-memory/9n6v0zcg8xh3",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "The Medium",
+    "Description": "Plug and play, although it does not offer configuration for keybinding (key mapping is the default one of the PC version of the game)",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.2984.13592824581067623.a376e59f-d8cf-40c9-9ef6-c7bd11240ed4.a8a5433b-ca63-40c2-a1b4-d4c071c89d69?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/the-medium/9NFSR96G6K4N",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "State of Decay 2",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13904.14425140369408817.14846606-f5bc-4fb1-b355-26ef6a25e847.0e006182-7d29-4776-81c4-0bac08c28f01?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/state-of-decay-2-juggernaut-edition/9NT4X7P8B9NB",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Immortals Fenyx Rising™",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.24779.64682799204913125.f407971c-f15c-4acc-99e1-682aec54019d.985e964e-48ec-4ebe-959d-58fdbe158f01?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/immortals-fenyx-rising/c07kjzrh0l7s",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Outriders",
+    "Description": "Plug and play, although it does not offer configuration for keybinding nor mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.10712.64676761359365869.23ae6d7f-e795-4e0d-805f-b3b54879666e.f6f5d5f9-9464-4154-936a-13e8bc0df0bc?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/outriders/c083g6bgj334",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Heavy Metal Machines",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.56254.13643891236661912.5ecee14b-66fd-432f-a1f7-9a3b7acb7e19.cb517891-7728-4c2e-a2de-cb6d7caf4af5?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/heavy-metal-machines/9ngkgt5j2n11",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "DIRT 5",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: some players are having trouble connecting their mouse to the game",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.14936.14216887906907763.d6b5bad9-17c0-4907-ae6e-baaa5cf14fb5.85e0dbd0-5854-4e79-8937-c0cd59d19e70?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/dirt-5/9pjgm0t0827v",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Football Manager 2021",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.35512.14532518131065620.77b1432b-0289-4db8-ba13-f460e04de740.3cdb1258-89fb-43de-b46a-3042db8c4805?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/football-manager-2021-xbox-edition/9p3s3c0whgm9",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Bridge Constructor: The Walking Dead",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.58683.14508979435126955.4b584f4a-6e8c-4284-bad4-0a5290e09ce6.6e104ca3-dc1f-4e4d-a3f2-9b446055d354?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/bridge-constructor-the-walking-dead/9p1lwfxnqvq0",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "PC Building Simulator",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.20787.14248737952133795.8b46156a-dd7a-433f-b176-f0373f640175.ecabb957-9ecc-4ea9-a1ae-300f3f5158e5?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/pc-building-simulator/9pgtzh51b3s8",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Halo: The Master Chief Collection",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13367.13817186670444302.148c432a-9fce-4c7d-bf13-8a2bd3a527b3.f26b74f0-8b1f-41eb-a82f-06843ec33473?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/halo-the-master-chief-collection/9MT8PTGVHX2P",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "World Enduro Rally",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.22265.14384521381725345.711c7253-c04b-4006-bc6c-88078d4f4b4c.8421a351-0d06-4d38-a09a-0413d637c0f3?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/world-enduro-rally/9nrn0g8kjpsl",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Totally Accurate Battle Simulator (Game Preview)",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.17742.14176345306313891.0fa5fe6f-5d91-4d91-915f-754bdc7e813a.0b5c9633-0db7-47d2-8b71-923a27af53c5?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/totally-accurate-battle-simulator-game-preview/9pc4rwp34m2d",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Casual Crossword",
+    "Description": "You may use keyboard on this game after getting past the menu and selecting the mode you want to play",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.35448.14155016853978837.7ff7458c-a1d0-4ae9-aad2-ea909cd8708e.da646e66-2813-4795-9c3f-0d13651b1b4b?mode=scale&q=90&h=250&w=200&background=%230078D7",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/casual-crossword/9pd7n6gbglp4",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Bricks Breaker+",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.58408.13532696885234136.8c6396f3-65e1-46f1-afbf-c703b3c1dd62.9c90840d-e26c-4aec-bd05-e001f2f94952?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/bricks-breaker-pc-xbox/9n9qb0lddr6h",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Block Dropper",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.62012.13510798885750143.4a711f02-f330-4fda-88cd-a69d064d5494.444e1a57-a5e6-4367-8fc6-35cddf6d7eb8?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/block-dropper/9nblggh2k036",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Block Puzzle INFINITE+ : Fun and Classic Block Game",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.30162.13905414827435332.0fd7b3c7-8ab0-4571-a3dd-26d559f1071f.32069a1e-f5af-4e97-9433-5c19bf5c7165?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/block-puzzle-infinite-fun-and-classic-block-game-pc-xbox/9n1hxtcnphd7",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Rain on Your Parade",
+    "Description": "Has keyboard support, but offers no configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13825.14369454977035291.312a1827-6832-45f4-885d-562c4148d669.5c931ffa-b74a-45a6-a9cb-082c7d9cddd9?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/rain-on-your-parade/9ns66qnvr00n",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "OCTOPATH TRAVELER",
+    "Description": "Has keyboard support. Note: you'll need to press any button of the controller on the title screen",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.35609.13539010844025035.cd25451c-c47c-45c8-b378-724488a9e769.f5b7bd24-0155-4432-a51f-ddf22fc1bbd7?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/octopath-traveler/9n9606cc950jZ",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Word Search Puzzle INFINITE+ : Mental Fitness",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.34101.14441142432194953.225860c5-2e4d-4d84-9f77-5f12624a1038.5a76d673-6f0d-4143-a45b-3f4f6642ada7?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/word-search-puzzle-infinite-mental-fitness-pc-xbox/9nwx6ps225tx",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Line Connect Puzzle INFINITE+: Brain Teaser Game",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.11167.13637562741182375.a4f47b4c-19b0-4825-b0ac-e2e216bec3ad.0ec9e575-647b-43a1-b88c-a1b0672f1769?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/line-connect-puzzle-infinite-brain-teaser-game-pc-xbox/9nh3t7r552qx",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Resurrection of Soul Drain",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.9174.13975046099530572.6bf7e9e4-ba3f-4eb4-917d-0b6e00f2b2d9.cddca50c-ece9-40df-9839-efd23b286114?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/resurrection-of-soul-drain/9n54cpnsw3wf",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Rabbit of Destiny",
+    "Description": "Has keyboard support",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.1185.13709361811569658.27654e9c-75e1-4fd1-8571-c0b08f3b7004.2824be63-9636-4709-b09d-bcedfbf0c20d?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/rabbit-of-destiny/9nld4rcph7mh",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "STAR WARS Jedi: Fallen Order™",
+    "Description": "[LIMITED FUNCTION*] Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. *: some people could only get their mouse working on the game when their keyboard and mouse share the same USB dongle to connect to the Xbox",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.19587.65392999590663672.028b6875-f925-4d40-b3a1-e44db3b4fa32.13ac70be-1487-492d-934e-c1c514e85f52?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Doki Doki Literature Club Plus!",
+    "Description": "You may use keyboard and mouse after the initial profile selection screen, but beware: the mouse cursor doesn't show up and the controller needs to stay connected to avoid a warning pop-up",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.12718.13839137676655214.0b01fff9-297b-4f4c-a938-ca189d72cc5b.1ae6041b-7258-4b4c-89e5-66fc134224d7?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/doki-doki-literature-club-plus/9mwq4nq5wx37",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Microsoft Flight Simulator",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.20786.14377492558798445.dbb01188-4892-4209-8afe-51244cbcda7e.f4e911ef-c295-4b00-b129-2f84acd134e9?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/microsoft-flight-simulator/9nrrjllxm68v",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "The Ascent",
+    "Description": "Plug and play, although it does not offer configuration for keybinding nor mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.50939.65332188737297236.e956bc32-e423-4920-b547-86181e7ed68d.5d1e69b9-96f7-4cd1-b87e-1e694ac71ee2?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/the-ascent/c27ql5jbkq8m",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "art of rally",
+    "Description": "Has keyboard support. You must keep the controller connected at all times",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.60816.14623403501904333.a0e82bb4-85b9-4a3c-9fd8-d7d04e850bd6.4f2d6112-080c-4c16-8574-561e913eed9f?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-us/p/art-of-rally/9p6jqddz2mqb",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Boyfriend Dungeon",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.65251.14034099625755791.53e68a85-57b5-431a-abf6-767b84f7d313.6dcc0182-1f63-465c-bfc6-f07254b3399d?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-us/p/boyfriend-dungeon/9n5phz0d92ld",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Splitgate",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.863.14587337578314212.75946cc7-cca3-42c5-81c5-32a9c3adefda.7ddfbe98-ccb5-4d38-af1f-d71305f9bca0?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-us/p/splitgate/9p4s1bpjlphz",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Halo Infinite",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: when you turn your controller off, you get a screen to reconnect it. But you may press enter and proceed without a controller",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.21536.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.68796bde-cbf5-4eaa-a299-011417041da6?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/halo-infinite/9NP1P1WFS0LB",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Psychonauts 2",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: some players are having trouble connecting their mouse to the game",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.59150.13578175979543723.424401c3-5602-4e35-abfc-c00f9156296a.99cd91cb-4b52-4353-b333-28a9e48f06fe?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/psychonauts-2/9nbr2vxt87sj",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Operencia: The Stolen Sun",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: some players are having trouble connecting their mouse to the game",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.10061.14198950016166681.7cf9495f-0767-4a36-ac5d-06e003e9e407.506a2120-edb5-4022-b427-e9e90e1ff59a?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/operencia-the-stolen-sun/9pfkkz5t89nl",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Myst",
+    "Description": "Plug and play. Note: in menus, mouse cursor won't show up",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.23256.14615720660140943.b99e7e6a-021d-4162-890c-dcaaa1b4eeee.7667019b-cd8e-4983-9826-f4119287884c?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/myst/9p6pqlfp9bn0",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Remnant: From the Ashes",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings. In menu, mouse cursor won't show up",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.3998.14118342467613503.328c9673-d2e4-481d-871f-02b381f9ae5e.bf9a01d5-ab77-41fe-b9d9-2fa6fd56175f?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/remnant-from-the-ashes/9pbhxgwzts2n",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Call of Duty®: Vanguard",
+    "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.19823.14284165171924425.2d21136a-9d1f-4048-be65-ec662d0e79d8.ed6afa09-3bd6-47d3-b19b-9785b815a281?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/call-of-duty-vanguard---standard-edition/9PJLWR50JTG6",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Quake",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/quake/9p1z43krnqd4",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Terraria",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.31019.70406876433810089.4beffaca-3fee-4154-a21f-ecd9b3bedbb3.cc90d42b-0620-473e-a51e-52f0e5ff8454?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-gb/p/terraria/btnps60n3114",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "The Riftbreaker",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.52293.14074927307991469.b436fff7-157c-4e97-b957-11e9d6f0e0eb.b97d6b98-d674-43c1-8cdf-5c786bd6fa29?mode=scale&q=90&h=250&w=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.microsoft.com/en-us/p/the-riftbreaker/9p94pckp864b",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Asphalt 9: Legends",
+    "Description": "Has keyboard support only",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.15390.14471421918435459.3615d8d5-10ca-4c2f-b3e5-e8c97fe18682.abd3cc95-35b2-40d0-8b62-33ced0101eec?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/asphalt-9-legends/9NZQPT0MWTD0",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "The Forgotten City",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.2178.13683273960215638.5923ef51-2df1-4d4f-9d97-d8e9f37aa547.53c2b415-5502-4b0b-bc08-c4a6c50f21cb?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/the-forgotten-city/9nj4r763m7th",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Jurassic World Evolution 2",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.1077.13843646153700405.faf0a0ab-da0c-4a73-a182-1b5794b3f805.46323daa-e6c1-4bdd-a1e4-2c78222de22e?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/jurassic-world-evolution-2/9mwhmj0srbxv",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Evil Genius 2: World Domination",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.44183.13725970033936449.25aa6307-fa1b-4241-9ec3-abc63be55bac.23ff70cf-10a3-491a-b885-c37bc4e1fc53?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/evil-genius-2-world-domination/9p27ss2hb04m",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "ANVIL: Vault Breaker",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: The mouse can only navigate some parts of menus, being a bit inconsistent",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.30434.14277836659846754.1096f7d8-d613-4743-803e-2ebeca442db7.f04dcee7-9d65-454a-bc60-f15fe2954a81?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/anvil-vault-breaker-game-preview/9pjpv2pc3mwr",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Space Warlord Organ Trading Simulator",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.34290.14396653708129733.be3550ae-ecb9-49ec-9472-c70a3c588ca1.cc5e2480-f397-4750-b913-97633939d111?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/space-warlord-organ-trading-simulator/9nvd5db5t3hd",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Aliens: Fireteam Elite",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: There's no way to customize key bindings, and you'll need a controller active to make kbm work",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.48016.14189206062547849.34667497-3c97-48d3-916d-0cd555e3aee9.bf7b37bc-9777-47ae-98c1-a56ad4015ae7?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/aliens-fireteam-elite/9PG28RXDG9GQ",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Last Oasis",
+    "Description": "Has limited keyboard and mouse support, not offering configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.11230.14319612075993533.70cd074e-ea9e-44d6-b137-dcaf4dbe10af.c55c9c58-9398-4a55-9cf6-534522981218?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/last-oasis-game-preview/9PLD4LD46HKJ",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "The Anacrusis",
+    "Description": "Has limited keyboard and mouse support, not offering configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.4033.14132627781219400.b75eb479-8d85-476a-9b12-d9044cad7c6e.99e835cb-3210-4bdc-a467-1784a69d5ee4?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/the-anacrusis-previa-do-jogo/9P9S593SLMV7",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "The Last Kids on Earth and the Staff of Doom",
+    "Description": "Plug and play, but you will need a controller to navigate the menus",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.50427.13762649903394503.ab6e32ef-5ac4-49a8-8d5d-4893cabe8968.80831f5f-9374-439b-bf35-bacbedc0ffd8?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/the-last-kids-on-earth-and-the-staff-of-doom/9NQTJK43NCQJ",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Mortal Shell: Enhanced Edition",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings. In menu, mouse cursor won't show up",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.34120.14112185653659482.b5e15e3a-13c2-47bd-9e60-7709b165611f.74b49393-67cd-4373-8bce-a1d3ee9e1ba5?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/mortal-shell-enhanced-edition/9pc2bjdxr2lk",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Century: Age of Ashes",
+    "Description": "Limited support. Controller is needed in the menus, although kbm works well while in game",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.7821.14384635405690570.b3c36fb2-b911-4f1c-82c7-a38423c9169f.134e2663-4295-49fa-bd1d-7f95327987fb?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/century-age-of-ashes/9NRMXFFD3K13",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Life is Strange: True Colors",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.15401.13586428055135571.f12709ac-4fdc-444a-9eb3-a38d712ce6f7.8324cbe9-0821-4e95-a684-bd34a3d87df4?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/life-is-strange-true-colors/9NFWSNN4JWKB",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Sniper Elite 5",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.34732.14329012547000484.7cb39222-264a-4c98-a0f1-007c4e95f1e1.d7d5968f-4e09-4b2b-aea5-ea36b059cec1?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/sniper-elite-5/9pp8q82h79lc",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Astroneer",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.17703.13510798887933723.57e43f19-4066-429e-b1a2-caea56e427b4.f555e1de-d116-4ab1-bed1-408a78622ba6?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/astroneer/9nblggh43kzb",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Weird West",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13790.14464239229931947.75c64ed9-49e8-4a32-87eb-a4b9b662a927.9afa639d-3b32-4442-ac82-f96af8fcc7f4?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/weird-west/9p0b86jn5x28",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Project Wingman",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.46542.13774735967551951.4e47740d-df56-4f79-8338-58493ef3afb7.b870b249-5bf3-40e3-86e8-a731ee830abf?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/project-wingman/9NQ73XB1Q5ZG/0010",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Floppy Knights",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.23302.13705007807700068.b1aa4546-7dc5-49f3-9805-5aa4532e77e2.bc4d4a35-b356-43e3-9fb6-c219875c68a3?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/floppy-knights/9nlm4tthcwsh",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Injection π23 Ars regia",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.62564.14170729122996564.4f4f5602-302d-451d-9c56-7e3c16366ed5.c7959cf4-fe70-46ac-b36e-14cfb7d20e1f?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-GB/games/store/injection-p23-ars-regia/9PCFLLTQWSD3",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Loot River",
+    "Description": "Has limited keyboard and mouse support, not offering configuration for keybinding. You'll also need to keep a controller connected",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.44571.14047756119637031.8bee70cc-a32a-4d5f-85a7-9d5e7e9b2403.7602353a-9764-40df-ba20-ef87b5586f73?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/loot-river/9n8c03gw2trb",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "DJMAX RESPECT V",
+    "Description": "Has keyboard support only, but offers no configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.24114.14576235444726870.fd610bda-5b8c-4e1a-b3bd-c1ea8b63ceac.acf37411-23b5-442b-838c-a6bff44928d2?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/djmax-respect-v/9p544pgzxc0p",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Relicta",
+    "Description": "Has limited keyboard and mouse support, not offering configuration for keybinding. Mouse is functional in menus, but cursor is invisible",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.36757.14394741296853430.cac19599-aa9f-4a38-8416-95e930b62352.c1cdfa20-0c44-4df3-88ce-42ee0cdf6039?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/relicta/9nvpm74dd797",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "MultiVersus",
+    "Description": "Full support. Press Esc on the keyboard when the game ask for a controller and it will recognize the keyboard and mouse",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.30736.13612510376892846.ea7cd9b3-26b9-4d95-9767-6341e5816c35.1dae3fc7-38d2-4824-b128-ec934b3f3258?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-GB/games/store/multiversus/9NDKXXBL90GF",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Craftopia",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.15143.14415744061326680.ca18f220-3c29-47ac-b488-ffd7a3e0ba11.ba8cabd0-7650-4aed-9faf-e3ff3d0baab0?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/craftopia/9ntm9g539xtt",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Maneater",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.57648.14572536018362984.944e7368-3c2f-4b4e-8072-fe5da70a10fa.d746edf2-6869-4be5-8fbe-30005b4db753?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/maneater/9p5b81kvdgp1",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Cyberpunk 2077",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.47379.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.89bb995b-b066-4a53-9fe4-0260ce07e894?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/cyberpunk-2077/bx3m8l83bbrw",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Deliver Us The Moon",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.14571.14457384607912211.14edb78c-d179-4195-91bb-a89b445c4b7a.20534cc9-a7a0-47f8-947c-4aad58a64cae?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/deliver-us-the-moon/9nvvshq771wg",
+    "CrossplayEnabled": false
+  }
+]
