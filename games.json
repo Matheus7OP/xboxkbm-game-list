@@ -333,11 +333,11 @@
   },
 
   {
-    "Name": "Grounded (Game Preview)",
+    "Name": "Grounded",
     "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
-    "ImageLink": "https://store-images.s-microsoft.com/image/apps.30438.14280109286674604.07457100-a11d-4e1d-8c2b-59dd36bb9443.50475687-e425-4eb7-9d4b-ed92ce8e1079?mode=scale&q=90&h=250&w=200",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.56539.14280109286674604.94f3a3e8-211f-41e5-ac9c-d948b5377852.34f5054f-a85e-4634-ab3c-6d4a4ea24fc2?q=90&w=250&h=200",
     "ImageSource": "Microsoft Store",
-    "BuyLink": "https://www.microsoft.com/en-gb/p/grounded-game-preview/9pjthrnvh62h",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/grounded/9pjthrnvh62h",
     "CrossplayEnabled": true
   },
 
@@ -802,7 +802,7 @@
 
   {
     "Name": "Halo Infinite",
-    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: when you turn your controller off, you get a screen to reconnect it. But you may press enter and proceed without a controller",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely. Note: you'll need to have kbm plugged in before opening the game, to avoid the cursor lock bug",
     "ImageLink": "https://store-images.s-microsoft.com/image/apps.21536.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.68796bde-cbf5-4eaa-a299-011417041da6?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
     "ImageSource": "Microsoft Store",
     "BuyLink": "https://www.microsoft.com/en-gb/p/halo-infinite/9NP1P1WFS0LB",
@@ -1117,10 +1117,46 @@
 
   {
     "Name": "Deliver Us The Moon",
-    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "Description": "Plug and play, although it does not offer configuration for keybinding",
     "ImageLink": "https://store-images.s-microsoft.com/image/apps.14571.14457384607912211.14edb78c-d179-4195-91bb-a89b445c4b7a.20534cc9-a7a0-47f8-947c-4aad58a64cae?q=90&w=250&h=200",
     "ImageSource": "Microsoft Store",
     "BuyLink": "https://www.xbox.com/en-gb/games/store/deliver-us-the-moon/9nvvshq771wg",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Moonscars",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.41801.14609228948314679.57b5d232-e029-48c3-a08c-a51885c8f604.2f27813c-8553-44ab-9d19-d5a20f90d2a6?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/moonscars/9p77vd8mgjx8",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Destroy All Humans! 2 - Reprobed",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13886.13681367470540002.3991d920-b84b-440b-8bd4-af1e6677d812.f45501ac-be6f-45fa-bc88-50afe6bfe958?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/destroy-all-humans-2-reprobed/9njgm9hcclph",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Scorn",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings. Note: for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.22978.13699799412731780.9f7b812e-456c-430e-8cec-380f1ca9e4a2.2f448ff0-73c4-4053-b93d-54c8144069c7?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/scorn/9nm3tnrpqxlr",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Orcs Must Die! 3",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.7498.13555606646249745.8af2643b-c841-4eb8-b91d-698e142015fd.c58ae464-d2f3-4b9e-a6d7-5e27c91c53b2?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/orcs-must-die-3/9ncwf7rrr52g",
     "CrossplayEnabled": false
   }
 ]
