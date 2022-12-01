@@ -1158,5 +1158,95 @@
     "ImageSource": "Microsoft Store",
     "BuyLink": "https://www.xbox.com/en-gb/games/store/orcs-must-die-3/9ncwf7rrr52g",
     "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Mount & Blade II: Bannerlord",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.13443.14149597270613176.7ab8db21-d435-4f1c-8c3a-236ab836bd6b.8bf6f412-7f1b-4b9e-8f58-d988a02cc7b6?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/mount-blade-ii-bannerlord/9PDHWZ7X3P03/0010",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Valfaris",
+    "Description": "Has keyboard support only, but offers no configuration for keybinding",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.11363.13550297183504199.2581041e-5ce9-4fed-97fd-9ea991c2365e.bcbb9776-0248-4229-a89f-af9e6f234d04?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/valfaris/9NDDSFPB5W56",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Arma Reforger (Game Preview)",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.60860.13663454136506451.6a12e735-62d1-4512-92fa-0b34dd2e43c5.ce7b4dfc-2684-4ae5-b6b5-26f8ef4e4183?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/arma-reforger-game-preview/9NKCKD1WNDQ0",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Pentiment",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.32118.14431229486160986.b3655366-4704-41dd-bb1b-0ea3f2425df6.808122ac-ca66-4ac7-8efc-134da0e929ca?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/pentiment/9nx6k9hn4f4k",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Undungeon",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.15598.13969309302998441.31cbae08-c7d3-436f-b6a4-9ef04acee0f9.63d478ea-e42b-4206-8775-78270d4b5f78?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/undungeon/9n55w5hg0dsg",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Call of Duty®: Modern Warfare® II",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.39512.13966330883349940.b1b81fdb-bd1a-4193-ac08-63bed43ae3c0.60ae0b74-c07e-420f-b58f-9ede156cf4b2?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/call-of-duty-modern-warfare-ii/9n201kqxs5bm",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "LAPIN (Game Preview)",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.38507.13578896031022031.669735bf-c2ac-401f-ac66-dd1b562de1d2.1347bf0c-7eab-44d2-9d3e-5dbad6e05957?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/lapin-game-preview/9nbqhm0gm30n",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Phantom Abyss (Game Preview)",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.56545.13571270788175547.a0b8d076-db6b-4fbb-8482-0f78d6b14c6e.7a947016-b80a-4ec3-94a6-aa55f78f28ee?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/phantom-abyss-game-preview/9ncbtfhwjqnx",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Praetorians HD",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.29035.14486926172421110.6d15ce30-1f39-4667-b662-51aab53a710b.3884cdfc-b7ad-4861-9730-a0b1b4a5f6ee?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/praetorians-hd-remaster/9nz59sgjbt21",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Call of Duty®: Warzone™ 2.0",
+    "Description": "Plug and play, although for the menus, only the keyboard works",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.12368.13739535057760905.d290a0fa-1de3-43d4-9eb3-3453bfbc6707.2f43efce-f3a0-42b7-83fc-ceb34e8868e9?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/call-of-duty-warzone-20/9nnfg8bqrcxl",
+    "CrossplayEnabled": true
   }
 ]
