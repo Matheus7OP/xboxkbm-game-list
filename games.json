@@ -325,7 +325,7 @@
 
   {
     "Name": "Rogue Company",
-    "Description": "After skipping the first screen in-game using a controller, you may use your keyboard and mouse. However, the cursor is invisible on game menus and button mapping keeps showing Xbox buttons",
+    "Description": "After skipping the first screen in-game using a controller, you may use your keyboard and mouse. However, the cursor is invisible on game menus and button mapping keeps showing Xbox buttons. Note: does not support KBM in Xbox One",
     "ImageLink": "https://store-images.s-microsoft.com/image/apps.13093.14399248417342273.068dbd18-1a0c-4ae7-9053-fdb0810dda12.4e3dcc53-19ec-468a-97b6-a5ed244b8453?mode=scale&q=90&h=250&w=200&background=%23FFFFFF",
     "ImageSource": "Microsoft Store",
     "BuyLink": "https://www.microsoft.com/en-gb/p/rogue-company-standard-founders-pack/9nv7qkf1sp38",
@@ -1248,5 +1248,59 @@
     "ImageSource": "Microsoft Store",
     "BuyLink": "https://www.xbox.com/en-gb/games/store/call-of-duty-warzone-20/9nnfg8bqrcxl",
     "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "TUNIC",
+    "Description": "Has keyboard support only",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.11433.13702044937897358.8701ab78-da18-4c36-8c1e-3d4e6dfd60c9.be460380-78ee-493d-999d-f5943ba38e7a?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/tunic/9NLRT31Z4RWM",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "High On Life",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.24623.13714596773589453.b0e22fc5-f8b4-4b36-b12d-db5d42554c10.6f0900bc-34c9-486d-996b-89c8de1cc280?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/high-on-life/9nl4714vtlrs",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Dreamscaper",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.58248.13522425449027354.d30e2029-af7b-42b5-9597-24dab387b2b5.03a8de9c-dea7-4572-a82a-db87a22a4fd9?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/dreamscaper/9nb7fz2gv5n1",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Ghostrunner",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.6690.14150012495483667.3dab4f1e-a4bc-43a2-92e3-c7b3b9a91dc2.b0d032b6-40af-4d34-93b5-462d9108f8bc?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/ghostrunner/9pdgwzpkcbt6",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Hello Neighbor 2",
+    "Description": "Plug and play, although it does not offer configuration for keybinding or mouse settings",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.43743.13538643730533052.28638370-579e-40f3-af52-7a9f26631587.67554df9-b3c0-4a7e-b257-c5909ca201be?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-GB/games/store/hello-neighbor-2/9N961B11FJ4W",
+    "CrossplayEnabled": false
+  },
+
+  {
+    "Name": "Norco",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.45763.14481237140487412.88b201c5-42cf-43cc-af65-86f48324703c.970ebbe9-e35c-4ac4-bd26-e13846287e54?q=90&w=250&h=200",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/norco/9nzfzxdrzqlr",
+    "CrossplayEnabled": false
   }
 ]
