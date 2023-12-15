@@ -1,4 +1,11 @@
-[
+[  {
+    "Name": "Alan Wake 2",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.53207.14335040691238971.69596c0b-00e0-49eb-a6ce-2535ef602b5e.610aeb08-6b0a-45d5-86cc-107b90e66c80?q=90&w=177&h=265",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/alan-wake-2/9pnzh065x7pv",
+    "CrossplayEnabled": true
+  },
   {
     "Name": "Call of Duty®: Modern Warfare®",
     "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
@@ -860,6 +867,15 @@
     "ImageLink": "https://store-images.s-microsoft.com/image/apps.21484.14497943460299347.3ad06bb4-d442-43a2-99e0-f41399a5b03e.e735bdbc-b062-401b-88e7-653b6859fe81?mode=scale&q=90&h=250&w=200",
     "ImageSource": "Microsoft Store",
     "BuyLink": "https://www.microsoft.com/en-gb/p/quake/9p1z43krnqd4",
+    "CrossplayEnabled": true
+  },
+  
+    {
+    "Name": "Quake II",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.55631.14105366677060737.2503bfc2-efe7-4772-9a81-c5a231a5057d.d8daf983-c810-4800-982e-84b31ab8946f?q=90&w=177&h=265",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/quake-ii/9p7l9h478ggv",
     "CrossplayEnabled": true
   },
 
