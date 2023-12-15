@@ -2,7 +2,7 @@
 
 This repository holds a crowd-sourced list of Xbox games that offer keyboard and mouse (KBM), along with a list of contributors and their respective contributions. The data hosted here is the source for the Xbox KBM website, which has been running since 2020. 
 
-Xbox KBM is hosted on Netlify (https://xboxkbm.netlify.app/). We've transitioned from Heroku since they ended their Free Tier options in November/2022.
+Xbox KBM is hosted on Netlify (https://xboxkbm.netlify.app/). We've transitioned from Heroku since they ended their Free Tier in November/2022.
 
 ## How do I contribute?
 
