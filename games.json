@@ -1,4 +1,22 @@
 [  {
+    "Name": "Age of Empires IV: Anniversary Edition",
+    "Description": "Input Method must be changed in the options menu",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.63959.14235977975261210.106699ff-5046-4540-ac72-e248ae2c3818.f61be535-d1e6-46c7-a0b3-338fd9384f08?q=90&w=177&h=265",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/age-of-empires-iv-anniversary-edition/9PHH1ZWRSZ41/0010",
+    "CrossplayEnabled": true
+  },
+
+  {
+    "Name": "Age of Empires II: Definitive Edition",
+    "Description": "Input Method must be changed in the options menu",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.55056.13678235101671609.c350aa6a-23e2-407c-94fd-5050e9bedb6f.f8b5d931-11f6-46e3-859f-54981d5b9d1b?q=90&w=177&h=265",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "https://www.xbox.com/en-gb/games/store/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q/0010",
+    "CrossplayEnabled": true
+  },
+
+  {
     "Name": "Alan Wake 2",
     "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
     "ImageLink": "https://store-images.s-microsoft.com/image/apps.53207.14335040691238971.69596c0b-00e0-49eb-a6ce-2535ef602b5e.610aeb08-6b0a-45d5-86cc-107b90e66c80?q=90&w=177&h=265",
@@ -6,6 +24,7 @@
     "BuyLink": "https://www.xbox.com/en-gb/games/store/alan-wake-2/9pnzh065x7pv",
     "CrossplayEnabled": true
   },
+
   {
     "Name": "Call of Duty®: Modern Warfare®",
     "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
