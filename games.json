@@ -26,6 +26,15 @@
   },
 
   {
+    "Name": "Battlefield™ 6",
+    "Description": "Plug and play. Once the keyboard and mouse are detected by the Xbox, you may use this input method freely",
+    "ImageLink": "https://store-images.s-microsoft.com/image/apps.65490.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.c65ba007-7378-497e-b934-101230f24e82?q=90&w=177&h=265",
+    "ImageSource": "Microsoft Store",
+    "BuyLink": "http://www.xbox.com/en-gb/games/store/battlefield-6/9P2FF14JZLL3",
+    "CrossplayEnabled": true
+  },
+
+  {
     "Name": "Call of Duty®: Modern Warfare®",
     "Description": "Once past the first screen in-game using your controller, you may use your keyboard and mouse after changing input method in game settings",
     "ImageLink": "https://store-images.s-microsoft.com/image/apps.50528.67185831113154542.823e899c-d262-40a0-91f6-eee04bdc3713.dd7010c6-9641-4c5a-b8b5-7eb16ddc67ea?mode=scale&q=90&h=250&w=200",
